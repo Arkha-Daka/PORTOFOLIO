@@ -38,7 +38,8 @@ Saya memiliki semangat tinggi dalam membangun, menganalisis, dan mengamankan sis
 ## 📫 Hubungi Saya
 - 🌍 Website / Portfolio: [coming soon]  
 - 💬 Discord : [@arkhasunlight]  
-- 📧 Email: [arkha740@gmail.com]  
+- 📧 Email: [arkha740@gmail.com]
+- LinkedIn : Raja Arkha Ibrahim
 
 ---
 
