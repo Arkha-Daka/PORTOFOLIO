@@ -21,11 +21,11 @@ Saya memiliki semangat tinggi dalam membangun, menganalisis, dan mengamankan sis
 
 | Kategori | Tools / Teknologi |
 |-----------|------------------|
-| 🧠 OSINT | Maltego, Spiderfoot, Shodan, theHarvester |
-| 💥 Pentest | Burp Suite, Metasploit, Nmap, Gobuster |
-| 🌐 Network | Wireshark, Cisco Packet Tracer, pfSense |
-| ⚙️ IoT | Arduino, ESP32, Raspberry Pi, MQTT, Node-RED |
-| 💻 Dev | Python, C/C++, Bash, Linux (Kali, Ubuntu) |
+| 🧠 OSINT | Spiderfoot, Shodan, theHarvester |
+| 💥 Pentest | Burp Suite, Metasploit, Nmap |
+| 🌐 Network | Wireshark, Cisco Packet Tracer |
+| ⚙️ IoT | Arduino, ESP32 |
+| 💻 Dev | Python, C/C++, HTML CSS JS PHP, Linux (Kali, Debian) |
 
 ---
 
@@ -37,8 +37,8 @@ Saya memiliki semangat tinggi dalam membangun, menganalisis, dan mengamankan sis
 
 ## 📫 Hubungi Saya
 - 🌍 Website / Portfolio: [coming soon]  
-- 💬 Discord / Telegram: [@rajaarkha]  
-- 📧 Email: [rajaarkha@example.com]  
+- 💬 Discord : [@arkhasunlight]  
+- 📧 Email: [arkha740@gmail.com]  
 
 ---
 
@@ -46,7 +46,7 @@ Saya memiliki semangat tinggi dalam membangun, menganalisis, dan mengamankan sis
 Beberapa proyek yang sedang saya kerjakan:
 - 🔍 **OSINT Automation Tool** – untuk menggabungkan data intelijen dari berbagai sumber publik.  
 - 💣 **Pentest Lab Simulation** – lab pribadi untuk uji exploit dan network defense.  
-- ⚙️ **IoT Smart Security Device** – sistem keamanan berbasis IoT dengan sensor real-time dan kontrol mobile.
+- ⚙️ **IoT Smart Security Device** – sistem keamanan berbasis IoT dengan sensor real-time dan kontrol mobile. Jammer, dan lain-lain
 
 ---
 
