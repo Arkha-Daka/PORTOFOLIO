@@ -1,62 +1,57 @@
-# Raja-Arkha-Ibrahim
+# 👑 Raja Arkha Ibrahim
 
-# Hello, I'm CHANGEME
-<a href="linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### 💻 Cybersecurity | 🕵️ OSINT | 🧠 Pentester | 🌐 Network Security | ⚙️ IoT Hardware & Software Engineer  
 
-[Brief Introduction - Remove this afterwards]
+Halo! Saya **Raja Arkha Ibrahim**, seorang **Cybersecurity Enthusiast** yang fokus pada **keamanan sistem, analisis OSINT, penetration testing, dan pengembangan IoT** baik dari sisi hardware maupun software.  
+Saya memiliki semangat tinggi dalam membangun, menganalisis, dan mengamankan sistem jaringan serta perangkat embedded agar aman dan efisien.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+---
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 🧩 Bidang Keahlian
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+- 🔒 **Cyber Security** — Analisis ancaman, mitigasi serangan, dan pengujian keamanan sistem.  
+- 🕵️ **OSINT (Open Source Intelligence)** — Pengumpulan dan analisis data publik untuk investigasi digital.  
+- 💥 **Penetration Testing** — Eksploitasi keamanan untuk menemukan celah dan meningkatkan sistem pertahanan.  
+- 🌐 **Network Security** — Manajemen keamanan jaringan, konfigurasi firewall, dan monitoring traffic.  
+- ⚙️ **IoT Hardware & Software Engineering** — Perancangan dan pemrograman perangkat pintar yang terintegrasi.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+---
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## ⚡ Tools & Skills
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+| Kategori | Tools / Teknologi |
+|-----------|------------------|
+| 🧠 OSINT | Maltego, Spiderfoot, Shodan, theHarvester |
+| 💥 Pentest | Burp Suite, Metasploit, Nmap, Gobuster |
+| 🌐 Network | Wireshark, Cisco Packet Tracer, pfSense |
+| ⚙️ IoT | Arduino, ESP32, Raspberry Pi, MQTT, Node-RED |
+| 💻 Dev | Python, C/C++, Bash, Linux (Kali, Ubuntu) |
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+---
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## 🧠 Filosofi Kerja
+> “Security isn’t a product, it’s a mindset.”  
+> — Saya percaya bahwa keamanan bukan hanya soal alat, tetapi tentang **cara berpikir, analisis, dan tanggung jawab digital**.
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+## 📫 Hubungi Saya
+- 🌍 Website / Portfolio: [coming soon]  
+- 💬 Discord / Telegram: [@rajaarkha]  
+- 📧 Email: [rajaarkha@example.com]  
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+---
+
+## 🧱 Projek & Eksperimen
+Beberapa proyek yang sedang saya kerjakan:
+- 🔍 **OSINT Automation Tool** – untuk menggabungkan data intelijen dari berbagai sumber publik.  
+- 💣 **Pentest Lab Simulation** – lab pribadi untuk uji exploit dan network defense.  
+- ⚙️ **IoT Smart Security Device** – sistem keamanan berbasis IoT dengan sensor real-time dan kontrol mobile.
+
+---
+
+### ⭐ Motto
+> “Explore. Analyze. Secure. Repeat.”  
+
+---
+
