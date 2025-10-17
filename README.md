@@ -48,6 +48,7 @@ Beberapa proyek yang sedang saya kerjakan:
 - 🔍 **OSINT Automation Tool** – untuk menggabungkan data intelijen dari berbagai sumber publik.  
 - 💣 **Pentest Lab Simulation** – lab pribadi untuk uji exploit dan network defense.  
 - ⚙️ **IoT Smart Security Device** – sistem keamanan berbasis IoT dengan sensor real-time dan kontrol mobile. Jammer, dan lain-lain
+- Projek Sekolah : FTP, SSH, File-Server, Ui/UX/CX
 
 ---
 
