@@ -352,4 +352,47 @@
   <!-- === Interaktif JS === -->
   <script>
     // Navbar glow saat scroll
-    const head
+    const header = document.querySelector("header");
+    window.addEventListener("scroll", () => {
+      if (window.scrollY > 60) {
+        header.style.background = "rgba(0,255,255,0.08)";
+        header.style.boxShadow = "0 0 15px rgba(0,255,255,0.3)";
+        header.style.borderBottomColor = "#00ffff55";
+      } else {
+        header.style.background = "rgba(10,10,15,0.95)";
+        header.style.boxShadow = "none";
+        header.style.borderBottomColor = "#00ffff33";
+      }
+    });
+
+    // Animasi muncul setiap section
+    const sections = document.querySelectorAll("section");
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.style.opacity = "1";
+          entry.target.style.transform = "translateY(0)";
+        }
+      });
+    }, { threshold: 0.15 });
+    sections.forEach(s => observer.observe(s));
+
+    // Efek neon kursor
+    const glow = document.createElement("div");
+    glow.style.position = "fixed";
+    glow.style.width = "20px";
+    glow.style.height = "20px";
+    glow.style.borderRadius = "50%";
+    glow.style.pointerEvents = "none";
+    glow.style.background = "radial-gradient(circle, rgba(0,255,255,0.6) 0%, transparent 70%)";
+    glow.style.filter = "blur(4px)";
+    glow.style.transition = "transform 0.05s linear";
+    glow.style.zIndex = "2000";
+    document.body.appendChild(glow);
+
+    document.addEventListener("mousemove", e => {
+      glow.style.transform = `translate(${e.clientX - 10}px, ${e.clientY - 10}px)`;
+    });
+  </script>
+</body>
+</html>
